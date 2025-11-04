@@ -1,0 +1,16 @@
+Name of Library,Year of Creation,Area of Usage,How Popular,Number of Downloads (approx/month),How Often Updated,Open Source,GitHub URL
+NLTK,2001,Natural Language Processing,Very Popular,1M+,Active,Yes,https://github.com/nltk/nltk
+spaCy,2015,Natural Language Processing,Very Popular,2M+,Active,Yes,https://github.com/explosion/spaCy
+Gensim,2009,Natural Language Processing,Popular,800K+,Moderately Active,Yes,https://github.com/RaRe-Technologies/gensim
+Transformers,2019,NLP / Deep Learning,Extremely Popular,10M+,Very Active,Yes,https://github.com/huggingface/transformers
+TextBlob,2013,Natural Language Processing,Moderately Popular,400K+,Occasionally Updated,Yes,https://github.com/sloria/TextBlob
+scikit-learn,2007,Machine Learning,Extremely Popular,15M+,Very Active,Yes,https://github.com/scikit-learn/scikit-learn
+TensorFlow,2015,Machine Learning / Deep Learning / AI,Extremely Popular,25M+,Very Active,Yes,https://github.com/tensorflow/tensorflow
+PyTorch,2016,Machine Learning / Deep Learning / AI,Extremely Popular,20M+,Very Active,Yes,https://github.com/pytorch/pytorch
+XGBoost,2014,Machine Learning,Very Popular,5M+,Active,Yes,https://github.com/dmlc/xgboost
+LightGBM,2017,Machine Learning,Popular,3M+,Active,Yes,https://github.com/microsoft/LightGBM
+CatBoost,2017,Machine Learning,Popular,2M+,Active,Yes,https://github.com/catboost/catboost
+Keras,2015,Deep Learning / AI,Very Popular,10M+,Very Active,Yes,https://github.com/keras-team/keras
+FastAI,2018,Deep Learning / AI,Very Popular,4M+,Active,Yes,https://github.com/fastai/fastai
+OpenCV,2000,Computer Vision / AI,Extremely Popular,30M+,Very Active,Yes,https://github.com/opencv/opencv
+Stable-Baselines3,2019,Reinforcement Learning / AI,Popular,1M+,Active,Yes,https://github.com/DLR-RM/stable-baselines3
