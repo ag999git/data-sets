@@ -1,4 +1,4 @@
-Name of Library,Year of Creation,Area of Usage,How Popular,Number of Downloads (approx/month),How Often Updated,Open Source,GitHub URL
+Library,Year,Usage,Popularity,Downloads (approx/month),Updated,Open Source,GitHub URL
 NLTK,2001,Natural Language Processing,Very Popular,1M+,Active,Yes,https://github.com/nltk/nltk
 spaCy,2015,Natural Language Processing,Very Popular,2M+,Active,Yes,https://github.com/explosion/spaCy
 Gensim,2009,Natural Language Processing,Popular,800K+,Moderately Active,Yes,https://github.com/RaRe-Technologies/gensim
